@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sasuketech/sasuketech-tea-app.git"
+    "url": "https://github.com/sasuketech/sasuketech-tea.git"
   },
   "dependencies": {
     "earn_378_tea": "1.0.0"
@@ -16,7 +16,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sasuketech/sasuketech-tea-app/issues"
+    "url": "https://github.com/sasuketech/sasuketech-tea/issues"
   },
-  "homepage": "https://github.com/sasuketech/sasuketech-tea-app#readme"
+  "homepage": "https://github.com/sasuketech/sasuketech-tea#readme"
 }
